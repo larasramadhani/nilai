@@ -1,0 +1,8 @@
+C:\laras.tryoutt\lyt2.nilai\lyt2.nilai\bin\Debug\lyt2.nilai.exe.config
+C:\laras.tryoutt\lyt2.nilai\lyt2.nilai\bin\Debug\lyt2.nilai.exe
+C:\laras.tryoutt\lyt2.nilai\lyt2.nilai\bin\Debug\lyt2.nilai.pdb
+C:\laras.tryoutt\lyt2.nilai\lyt2.nilai\obj\Debug\lyt2.nilai.csproj.AssemblyReference.cache
+C:\laras.tryoutt\lyt2.nilai\lyt2.nilai\obj\Debug\lyt2.nilai.csproj.SuggestedBindingRedirects.cache
+C:\laras.tryoutt\lyt2.nilai\lyt2.nilai\obj\Debug\lyt2.nilai.csproj.CoreCompileInputs.cache
+C:\laras.tryoutt\lyt2.nilai\lyt2.nilai\obj\Debug\lyt2.nilai.exe
+C:\laras.tryoutt\lyt2.nilai\lyt2.nilai\obj\Debug\lyt2.nilai.pdb
